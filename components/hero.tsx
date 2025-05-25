@@ -28,14 +28,14 @@ export function Hero() {
 
         <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
           <a
-            href="mailto:kruthi.hegde@example.com"
+            href="mailto:hegde.kru@northeastern.edu"
             className="flex items-center space-x-2 px-4 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors"
           >
             <Mail size={18} />
             <span className="text-sm font-medium">Email</span>
           </a>
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1NKa5bsD_MK2m8T3RHmgGVx5slM-KXjgO/view?usp=drive_link"
             download
             className="flex items-center space-x-2 px-4 py-2 bg-green-600 text-white rounded-full hover:bg-green-700 transition-colors"
           >
@@ -43,7 +43,7 @@ export function Hero() {
             <span className="text-sm font-medium">Resume</span>
           </a>
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://linkedin.com/in/kruthihegde"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 px-4 py-2 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition-colors"
@@ -52,22 +52,13 @@ export function Hero() {
             <span className="text-sm font-medium">LinkedIn</span>
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/kruthish18"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 px-4 py-2 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition-colors"
           >
             <Github size={18} />
             <span className="text-sm font-medium">GitHub</span>
-          </a>
-          <a
-            href="https://twitter.com/yourhandle"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center space-x-2 px-4 py-2 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition-colors"
-          >
-            <Twitter size={18} />
-            <span className="text-sm font-medium">Twitter</span>
           </a>
         </div>
 
