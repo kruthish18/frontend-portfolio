@@ -7,7 +7,7 @@ export function Projects() {
       description:
         "A social platform for developers to learn, connect, and grow. Built using MERN stack with real-time messaging and collaborative features.",
       technologies: ["React", "Node.js", "MongoDB", "Socket.io", "Express"],
-      image: "https://drive.google.com/file/d/1sI_n37UTGGQ4rwiIO9gfZFmcmt8icldj/view?usp=drive_link",
+      image: "https://github.com/kruthish18/frontend-portfolio/blob/main/public/tech%20buddy.png?raw=true",
       github: "https://github.com/kruthish18/TECH-BUDDY",
       featured: true,
     },
@@ -16,7 +16,7 @@ export function Projects() {
       description:
         "Streamlined app for home-based tiffin services with customer feedback loop, order management, and payment integration.",
       technologies: ["React Native", "Firebase", "Stripe API", "Redux"],
-      image: "https://drive.google.com/file/d/17kEMEREjpXKNtq4-mzto88ANy_XQqRWv/view?usp=drive_link",
+      image: "https://github.com/kruthish18/frontend-portfolio/blob/main/public/Tiffin-Tribe.png?raw=true",
       figma: "https://www.figma.com/design/TNuZ3MD728UmVSJmmU4mAq/THE-TIFFIN-TRIBE?node-id=0-1&p=f",
       featured: true,
     },
@@ -25,7 +25,7 @@ export function Projects() {
       description:
         "A fun terminal-based hangman game built in Java with OOP principles, featuring multiple difficulty levels and score tracking.",
       technologies: ["Java", "JavaFX", "OOP", "File I/O"],
-      image: "https://drive.google.com/file/d/1m7HOYN7kFyE3cWrEKhGnZsqd8dtbu7kq/view?usp=drive_link",
+      image: "https://github.com/kruthish18/frontend-portfolio/blob/main/public/Hangman.png?raw=true",
       featured: false,
     },
     {
@@ -33,7 +33,7 @@ export function Projects() {
       description:
         "A smart campus-wide e-waste management system that simplifies recycling while incentivizing participation. This project was part of Northeastern's Sustainability Innovation Week Competition, where I conducted research, designed the solution, and submitted a pitch video. I made it to Top 5 Candidates.",
       technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-      image: "https://drive.google.com/file/d/1wgwGCQXBJ9LCm7WgFvRA3iE1GmQUIRqA/view?usp=drive_link",
+      image: "https://github.com/kruthish18/frontend-portfolio/blob/main/public/E-waste.png?raw=true",
       presentation: "https://docs.google.com/presentation/d/1IPdXHE6u1v-4cW-5saQYuqoteuv-b6AkxnjMNQD3bDo/edit#slide=id.g2d959ec51c6_2_14",
       youtube: "https://drive.google.com/file/d/1uw8Sx5_9ZMzgtDuikrtsKL0XUE7Epr49/view",
       featured: false,

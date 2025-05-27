@@ -35,12 +35,6 @@ export function Contact() {
               </div>
             </div>
 
-            <div className="flex items-start space-x-4">
-              <div className="p-3 bg-blue-100 text-blue-600 rounded-lg">
-                <Phone size={24} />
-              </div>
-              
-            </div>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-sm">
