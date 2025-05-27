@@ -7,9 +7,8 @@ export function Projects() {
       description:
         "A social platform for developers to learn, connect, and grow. Built using MERN stack with real-time messaging and collaborative features.",
       technologies: ["React", "Node.js", "MongoDB", "Socket.io", "Express"],
-      image: "/placeholder.svg?height=300&width=500",
-      github: "https://github.com/yourusername/tech-buddy",
-      demo: "https://tech-buddy-demo.com",
+      image: "https://drive.google.com/file/d/1sI_n37UTGGQ4rwiIO9gfZFmcmt8icldj/view?usp=drive_link",
+      github: "https://github.com/kruthish18/TECH-BUDDY",
       featured: true,
     },
     {
@@ -17,9 +16,8 @@ export function Projects() {
       description:
         "Streamlined app for home-based tiffin services with customer feedback loop, order management, and payment integration.",
       technologies: ["React Native", "Firebase", "Stripe API", "Redux"],
-      image: "/placeholder.svg?height=300&width=500",
-      github: "https://github.com/yourusername/tiffin-tribe",
-      demo: "https://tiffin-tribe-demo.com",
+      image: "https://drive.google.com/file/d/17kEMEREjpXKNtq4-mzto88ANy_XQqRWv/view?usp=drive_link",
+      figma: "https://www.figma.com/design/TNuZ3MD728UmVSJmmU4mAq/THE-TIFFIN-TRIBE?node-id=0-1&p=f",
       featured: true,
     },
     {
@@ -27,18 +25,17 @@ export function Projects() {
       description:
         "A fun terminal-based hangman game built in Java with OOP principles, featuring multiple difficulty levels and score tracking.",
       technologies: ["Java", "JavaFX", "OOP", "File I/O"],
-      image: "/placeholder.svg?height=300&width=500",
-      github: "https://github.com/yourusername/wordgame-hangman",
+      image: "https://drive.google.com/file/d/1m7HOYN7kFyE3cWrEKhGnZsqd8dtbu7kq/view?usp=drive_link",
       featured: false,
     },
     {
-      title: "Portfolio Website",
+      title: "Northeastern E-Waste Recycling Hub",
       description:
-        "A responsive portfolio website showcasing my work and skills, built with modern web technologies and optimized for performance.",
+        "A smart campus-wide e-waste management system that simplifies recycling while incentivizing participation. This project was part of Northeastern's Sustainability Innovation Week Competition, where I conducted research, designed the solution, and submitted a pitch video. I made it to Top 5 Candidates.",
       technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-      image: "/placeholder.svg?height=300&width=500",
-      github: "https://github.com/yourusername/portfolio",
-      demo: "https://your-portfolio.com",
+      image: "https://drive.google.com/file/d/1wgwGCQXBJ9LCm7WgFvRA3iE1GmQUIRqA/view?usp=drive_link",
+      presentation: "https://docs.google.com/presentation/d/1IPdXHE6u1v-4cW-5saQYuqoteuv-b6AkxnjMNQD3bDo/edit#slide=id.g2d959ec51c6_2_14",
+      youtube: "https://drive.google.com/file/d/1uw8Sx5_9ZMzgtDuikrtsKL0XUE7Epr49/view",
       featured: false,
     },
   ]
